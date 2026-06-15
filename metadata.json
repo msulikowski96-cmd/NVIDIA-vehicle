@@ -1,0 +1,6 @@
+{
+  "name": "cuOpt Route Optimizer",
+  "description": "GPU-accelerated vehicle routing and TSP route optimization app powered by NVIDIA cuOpt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
